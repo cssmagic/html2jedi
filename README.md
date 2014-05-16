@@ -1,4 +1,3 @@
-bbs
-===
+# html2jedi
 
-移动 Web 开发论坛 / A Forum about Mobile Web Development
+将 HTML 文档或代码片断转换为 [Jedi](https://github.com/baixing/jedi) 模板。
