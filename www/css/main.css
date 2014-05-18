@@ -1,0 +1,12 @@
+/* --------------------------------------------- */
+/** common **/
+body > footer {
+	margin-top: 30px;
+	padding: 20px 0 40px;
+	text-align: center;
+	border-top: 1px solid #ccc;
+}
+
+
+
+
